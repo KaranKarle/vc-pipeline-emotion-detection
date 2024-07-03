@@ -1,0 +1,6 @@
+[core]
+    remote = myremot
+['remote "myremote"']
+    url = C:\Users\Administrator\AppData\Local\Temp\campusx-karan-dvc
+['remote "myremot"']
+    url = C:\Users\Administrator\AppData\Local\Temp\campusx-karan-dvc
